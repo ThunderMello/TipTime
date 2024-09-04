@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Timer</string>
+    <string name="asombroso_20">Asombroso (20%)</string>
+    <string name="bueno_18">Bueno (18%)</string>
+    <string name="aceptable_15">Aceptable (15%)</string>
+    <string name="qu_tal_estuvo_el_servicio">¿Qué tal estuvo el servicio?</string>
+    <string name="costo_del_servicio">Costo del servicio</string>
+    <string name="redondear">¿Redondear?</string>
+    <string name="calcular">Calcular</string>
+    <string name="propina">Propina</string>
+</resources>
